@@ -1,0 +1,17 @@
+/data
+/lightning_logs
+__pycache__
+notebooks
+/logs
+/slurm-*.out
+/old
+/ray_logs*
+/processed
+/results
+/results_v1
+*.swp
+*.pyc
+.cache
+.nfs*
+.github
+extern
