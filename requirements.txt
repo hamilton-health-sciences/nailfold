@@ -2,7 +2,7 @@ torch==1.8.0
 torchvision==0.9.0
 opencv-python==4.5.1.48
 kornia==0.5.0
-scikit_learn==0.24.1
+scikit_learn==1.0.1
 pandas==1.1.5
 pytorch_lightning==1.1.8
 plotnine==0.7.1
